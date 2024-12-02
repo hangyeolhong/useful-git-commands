@@ -8,7 +8,7 @@ git log --since=2.weeks
 git log --since="2 years 1 day 3 minutes ago" # 자유롭게 가능
 ```
 
-* --oneline: 각 커밋을 한 줄로 압축하여 표시
+* --oneline: 각 커밋을 한 줄로 압축하여 표시    `e.g. git log --oneline`
 * --author=[이름]: 특정 저자의 커밋만 표시
 * --since=[날짜]: 특정 날짜 이후의 커밋만 표시
   
