@@ -2,8 +2,8 @@
 
 ### git rebase
 * 용도
-1. as an alternative to merging
-2. as a cleanup tool
+    1. as an alternative to merging
+    2. as a cleanup tool
 
 ### Merge vs Rebase
 ```
@@ -17,3 +17,10 @@ git rebase master # master 브랜치 위로 현재 브랜치를 올리는 작업
 ### Why Rebase?
 * We get a much cleaner project history. No unnecessary merge commits! We end up with a linear project history.
 ---
+
+### Interactive Rebase
+* `git rebase -i HEAD~n`
+    * pick: use the commit
+    * reword: edit the commit message
+    * fixup: meld it into previous commit and discard the commit message
+    * drop: remove commit

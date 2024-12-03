@@ -2,7 +2,7 @@
 
 `git push -u origin [브랜치명]`
 * 현재 checkout한 브랜치와, 원격의 [브랜치명] 브랜치를 tracking connection
-* 이후에 git push, git pull만 해도, 자동으로 원격의 [브랜치명] 브랜치에 push, pull함
+* 이후에 `git push`, `git pull`만 해도, 자동으로 원격의 [브랜치명] 브랜치에 push, pull함
 
 `git push origin [브랜치명]`
 * 현재 checkout한 브랜치를 원격의 [브랜치명] 브랜치에 push

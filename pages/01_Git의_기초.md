@@ -1,3 +1,5 @@
+## Git의 기초
+
 * Git = 워크플로우
 * 공식 사이트 정의
 - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
