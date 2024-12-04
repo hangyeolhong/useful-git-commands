@@ -1,5 +1,5 @@
 ## Fetch and Pull
----
+
 
 ### Remote Tracking Branches
 * 마지막으로 원격 저장소와 통신한 시간을 기억하는 포인터

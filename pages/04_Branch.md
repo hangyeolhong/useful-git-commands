@@ -1,4 +1,4 @@
-## 브랜치
+## Branch
 
 * `git branch` view your existing branches
 * `git branch <new-branch-name> <origin-branch-name>`
