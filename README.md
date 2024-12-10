@@ -11,3 +11,10 @@
 * [09. Fetch and Pull](pages/09_Fetch_and_Pull.md)
 * [10. Rebase](pages/10_Rebase.md)
 * [11. Tag](pages/11_Tag.md)
+
+#### 문제 상황 및 해결법
+* [운영 서버 main에서 git pull 할 때 merge conflict 나는 경우](pages/pull_and_merge_confilct.md)
+* [git merge 방법](pages/merge.md)
+* [git merge conflict 해결법](pages/merge_conflict.md)
+* [특정 commit만 merge 요청하고 싶을 때](pages/cherrypick.md)
+* [원격 브랜치 가져오기](pages/branch.md)
