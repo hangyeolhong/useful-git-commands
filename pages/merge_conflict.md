@@ -35,8 +35,8 @@
    * Compare Change: conflict 발생한 부분을 더 보기 쉽게 보여줌
 
 
-2. 합친 다음, **A branch**에서 git add
+2. 합친 다음, **A branch**에서 `git add`
 
-3. git commit -m "메시지"
+3. `git commit -m "메시지"`
 
 4. 이러면 충돌났던 부분이 자동으로 merge가 됨

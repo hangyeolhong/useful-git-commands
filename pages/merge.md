@@ -6,8 +6,8 @@
 
 ### 방법
 1. 현재 git branch는 **A**
-2. **A branch**에서 현재 작업 중인 내용을 git add & git commit & **A branch**로 git push
-2. git checkout develop ---> **develop 브랜치로 이동**
-3. git pull origin develop ---> develop 브랜치 업데이트 내용 pull
-4. git checkout A ---> **다시 A 브랜치로 이동**
-5. git merge develop ---> develop 브랜치 내용을 A 브랜치에 합치기
+2. **A branch**에서 현재 작업 중인 내용을 `git add` & `git commit` & **A branch**로 `git push`
+2. `git checkout develop` ---> **develop 브랜치로 이동**
+3. `git pull origin develop` ---> develop 브랜치 업데이트 내용 pull
+4. `git checkout A` ---> **다시 A 브랜치로 이동**
+5. `git merge develop` ---> develop 브랜치 내용을 A 브랜치에 합치기
